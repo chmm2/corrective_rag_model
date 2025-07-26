@@ -1,0 +1,28 @@
+# requirements.txt
+
+# Core LangChain and related packages
+langchain
+langgraph
+langchain-core
+langchain-community
+langchain-groq
+langchain-pinecone
+langchain-huggingface
+
+# Vector Store
+pinecone-client
+
+# Document Loader
+pypdf
+
+# Embeddings
+sentence-transformers
+
+# Tools
+duckduckgo-search
+
+# Environment variables
+python-dotenv
+
+# For notebook-specific display functionality
+ipython
